@@ -35,8 +35,8 @@ Want to learn more? Check out our [pinned repositories](https://github.com/URTec
 
 ## Get in Touch
 We’re always excited to connect with clients and collaborators. Reach out to us at:
-- 📧 Email: [support@urtech.com](mailto:support@urtech.com)
-- 🌐 Website: [www.urtech.com](https://www.urtech.com)
+- 📧 Email: [support@screenitpro.com](mailto:support@screenitpro.com)
+- 🌐 Website: [www.urtech.cloud](https://urtech.cloud)
 
 ---
 
