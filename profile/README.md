@@ -1,7 +1,7 @@
-# Welcome to URTech LLC 🌟
+# Welcome to URTech LLC
 
 ## About Us
-URTech LLC was founded in **2021** by **David Riding** and **Jed Unrot**. Based in **Los Angeles, California**, URTech LLC is a technology company dedicated to creating innovative, scalable, and secure solutions for the Media and Entertainment industry.
+URTech LLC was founded in **2021** by **David Riding** and **Jed Unrot**. Based in sunny **Los Angeles, California**, URTech LLC is a technology company dedicated to creating innovative, scalable, and secure solutions for the Media and Entertainment industry.
 
 We specialize in:
 - **Real-Time Communication Software**: Building efficient and reliable solutions tailored to the unique needs of media and entertainment workflows.
