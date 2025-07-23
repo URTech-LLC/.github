@@ -24,8 +24,8 @@ Our mission is to help clients deploy scalable, secure, and workflow-optimized t
 
 ## Meet the Team
 
-### David Riding – Co-Founder & Technical Consultant  
-With over a decade of experience in backend systems, real-time architecture, and deployment strategy, David offers deep insight into the technical side of media and broadcast workflows.
+### David Riding – Co-Founder & Lead Systems Architect  
+David is responsible for designing and developing the core infrastructure and software solutions used by URTech LLC. With experience across server architecture, real-time communication systems, and backend development, he leads all aspects of technical implementation from concept to deployment.
 
 ### Jed Unrot – Co-Founder & Sales Lead  
 Jed focuses on relationship management, sales strategy, and helping clients align software solutions with their production needs.
@@ -40,7 +40,6 @@ Together, they provide continuity between sales and deployment.
 
 We help U.S.-based clients deploy media and communication solutions tailored to their workflow.
 
-📧 **Email:** [contact@urtech.cloud](mailto:contact@urtech.cloud)  
 🌐 **Website:** [www.urtech.cloud](https://www.urtech.cloud)
 
 ---
