@@ -22,20 +22,6 @@ Our mission is to help clients deploy scalable, secure, and workflow-optimized t
 
 ---
 
-## Meet the Team
-
-### David Riding – Co-Founder & Lead Systems Architect  
-David is responsible for designing and developing the core infrastructure and software solutions used by URTech LLC. With experience across server architecture, real-time communication systems, and backend development, he leads all aspects of technical implementation from concept to deployment.
-
-### Jed Unrot – Co-Founder & Sales Lead  
-Jed focuses on relationship management, sales strategy, and helping clients align software solutions with their production needs.
-
-### Dan Warner & Shawn Sanbar – Sales & Client Relations  
-Dan and Shawn bring experience in feature support, communication tracking, and client-side operations.  
-Together, they provide continuity between sales and deployment.
-
----
-
 ## Want to Work With Us?
 
 We help U.S.-based clients deploy media and communication solutions tailored to their workflow.
